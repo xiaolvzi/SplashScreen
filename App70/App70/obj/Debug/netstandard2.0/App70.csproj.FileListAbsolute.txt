@@ -1,0 +1,12 @@
+C:\VS_WorkSpace\App70\App70\App70\bin\Debug\netstandard2.0\App70.deps.json
+C:\VS_WorkSpace\App70\App70\App70\bin\Debug\netstandard2.0\App70.dll
+C:\VS_WorkSpace\App70\App70\App70\bin\Debug\netstandard2.0\App70.pdb
+C:\VS_WorkSpace\App70\App70\App70\obj\Debug\netstandard2.0\App70.csprojAssemblyReference.cache
+C:\VS_WorkSpace\App70\App70\App70\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\VS_WorkSpace\App70\App70\App70\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\VS_WorkSpace\App70\App70\App70\obj\Debug\netstandard2.0\App70.csproj.CoreCompileInputs.cache
+C:\VS_WorkSpace\App70\App70\App70\obj\Debug\netstandard2.0\App70.AssemblyInfoInputs.cache
+C:\VS_WorkSpace\App70\App70\App70\obj\Debug\netstandard2.0\App70.AssemblyInfo.cs
+C:\VS_WorkSpace\App70\App70\App70\obj\Debug\netstandard2.0\XamlC.stamp
+C:\VS_WorkSpace\App70\App70\App70\obj\Debug\netstandard2.0\App70.dll
+C:\VS_WorkSpace\App70\App70\App70\obj\Debug\netstandard2.0\App70.pdb
